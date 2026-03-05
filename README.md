@@ -52,11 +52,6 @@
 <h2>Feature Requests</h2>
 <p>Have an idea to make SaviCash better? We'd love to hear from you! Send your suggestions to <a href="mailto:savicashapp@gmail.com">savicashapp@gmail.com</a>.</p>
 
-<h2>Legal</h2>
-<ul>
-    <li><a href="privacy-policy.html">Privacy Policy</a></li>
-    <li><a href="terms-of-use.html">Terms of Use</a></li>
-</ul>
 
 <hr>
 <p style="text-align: center; color: #888; font-size: 14px; margin-top: 40px;">© 2026 SaviCash. All rights reserved.</p>
